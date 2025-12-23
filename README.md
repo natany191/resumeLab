@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# resumeLab
+An interactive AI-powered assistant that builds your resume through a natural conversation.
+
+## Tech Stack
+Built with React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
